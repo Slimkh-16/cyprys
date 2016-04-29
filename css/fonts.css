@@ -1,0 +1,31 @@
+
+@font-face {
+  font-family: 'Regular';
+  src: url('../fonts/CenturyGothic.eot?#iefix') format('embedded-opentype'),
+  	   url('../fonts/CenturyGothic.woff') format('woff'), 
+  	   url('../fonts/CenturyGothic.ttf')  format('truetype'), 
+  	   url('../fonts/CenturyGothic.svg#CenturyGothic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Additional';
+  src: url('../fonts/GothaProMed.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/GothaProMed.woff') format('woff'), 
+  	   url('../fonts/GothaProMed.woff2') format('woff2'), 
+  	   url('../fonts/GothaProMed.ttf')  format('truetype'), 
+  	   url('../fonts/GothaProMed.svg#GothaProMed') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GothaProBol';
+  src: url('../fonts/GothaProBol.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/GothaProBol.woff') format('woff'), 
+       url('../fonts/GothaProBol.woff2') format('woff2'), 
+       url('../fonts/GothaProBol.ttf')  format('truetype'), 
+       url('../fonts/GothaProBol.svg#GothaProBol') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
